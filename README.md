@@ -1,4 +1,4 @@
-# Docker: Your First Project
+# Docker: My First Project
 This is the repository for the LinkedIn Learning course `Docker: Your First Project`. The full course is available from [LinkedIn Learning][URL-lil-course].
 
 ![Docker: Your First Project][URL-lil-thumbnail]
