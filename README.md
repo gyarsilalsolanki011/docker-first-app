@@ -38,7 +38,7 @@ Shelley Benhoff
 
 Senior Developer Experience Manager at Docker, Instructor, and Author
 
-Check out my other courses on [LinkedIn Learning][URL-instructor-home].
+Explore more of Shelley’s courses on [LinkedIn Learning][URL-instructor-home].
 
 [URL-lil-course]: https://www.linkedin.com/learning/docker-your-first-project
 [URL-lil-thumbnail]: https://media.licdn.com/dms/image/D560DAQHjKrL64jLnaA/learning-public-crop_675_1200/0/1701991509593?e=2147483647&v=beta&t=VwonMpzrnmxJk07lG2SRqLwwR2gqj7vPCsJp51Ryu7k
